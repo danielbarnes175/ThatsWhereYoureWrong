@@ -25,13 +25,6 @@ html, body {
     display: inline-block;
 }
 
-.main-heading h1 {
-    font-size: 75px;
-}
-
-.main-heading p {
-    font-size: 30px;
-}
 .sub-heading {
     display: inline-block;
 }
