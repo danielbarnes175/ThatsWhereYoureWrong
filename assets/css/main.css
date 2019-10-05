@@ -1,0 +1,42 @@
+html, body {
+    background-image: url("../../images/ThatsWhere.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:100% 100%;
+    height: 100%;
+    margin: 0;
+}
+
+.container-custom {
+    text-align: center;
+    padding-top: 20%;
+    min-height: 100%; 
+}
+.container-custom-2 {
+    background-image: url("../../images/YoureWrong.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:100% 100%;
+    text-align: center;
+    padding-top: 20%;
+    min-height: 100%; 
+}
+.main-heading {
+    display: inline-block;
+}
+
+.main-heading h1 {
+    font-size: 75px;
+}
+
+.main-heading p {
+    font-size: 30px;
+}
+.sub-heading {
+    display: inline-block;
+}
+.box {
+    border: 3px solid black;
+    background: rgba(255, 255, 255, .7);
+    padding: 10px;
+}
