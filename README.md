@@ -1,0 +1,1 @@
+Please open this website on mobile, and send it to your friends.
